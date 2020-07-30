@@ -1,8 +1,2 @@
-Dataset/*
-raw data/*
-checkpoint/S_CNN/*
-Enhanced/*
-!Dataset/.gitkeep 
-!raw data/.gitkeep 
-!checkpoint/.gitkeep 
-!Enhanced/.gitkeep 
+*~
+__pycache__
