@@ -155,7 +155,7 @@ SoundFile==0.10.3.post1
 TBB==0.1
 tblib==1.6.0
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==1.15.2
 tensorflow-estimator==1.15.1
 tensorflow-gpu==1.15.0
 termcolor==1.1.0
