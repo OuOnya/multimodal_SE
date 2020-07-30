@@ -1,4 +1,4 @@
-# Cross_modal_SE
+# multimodal_SE
 
 
 This model is written in pytorch 1.4.0. You first need to install some packages:
@@ -11,9 +11,9 @@ conda install --yes --file requirements.txt
 ```
 
 ## Training
-To train the model, you need to specify the **Dataset** and the **raw data** folder. And set the parameters you want in [``config.py``](config.py).
+To train the model, you need to specify the **Dataset** and **raw data** folders. The data set stores clean and noisy speech, and the raw data stores electrical signals. These sentences are recorded based on the Taiwan Mandarin hearing in noise test (Taiwan MHINT). Then set the parameters you want in [``config.py``](config.py).
 For the model structure, you can set the parameters of the function [S_CNN()](main.py#L131) called in main.py.
-Then run:
+Then run it:
 ```
 python main.py
 ```
