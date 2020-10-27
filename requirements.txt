@@ -18,7 +18,7 @@ chardet==3.0.4
 click==7.1.1
 cloudpickle==1.4.1
 commonmark==0.9.1
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.15
 cytoolz==0.10.1
