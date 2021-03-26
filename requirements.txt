@@ -117,7 +117,7 @@ PySocks==1.7.1
 pystoi==0.3.3
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.1
 qtconsole==4.7.2
 QtPy==1.9.0
