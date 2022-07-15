@@ -27,7 +27,7 @@ dask-labextension==0.3.3
 decorator==4.4.2
 defusedxml==0.6.0
 dictdiffer==0.8.1
-distributed==2.15.2
+distributed==2021.10.0
 docutils==0.16
 dtw==1.4.0
 entrypoints==0.3
