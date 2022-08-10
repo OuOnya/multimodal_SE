@@ -77,7 +77,7 @@ mkl-random==1.1.0
 mkl-service==2.3.0
 msgpack==1.0.0
 multidict==4.7.3
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==5.0.4
 netron==4.0.9
 networkx==2.4
